@@ -1,6 +1,6 @@
 require 'rspec'
 require './lib/bank'
-require './lib/credit_card'
+require './lib/credit_check'
 
 RSpec.configure do |config|
   config.formatter = :documentation
